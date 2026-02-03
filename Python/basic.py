@@ -30,3 +30,4 @@ b = int(input("Enter The 2nd Number:"))
 avg = (a+b)/2
 
 print(avg)
+
